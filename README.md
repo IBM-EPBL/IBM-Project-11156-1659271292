@@ -1,12 +1,2 @@
 # IBM-Project-11156-1659271292
-A Gesture-based Tool for Sterile Browsing of Radiology Images
-This repo is our project which was done under the guidance of IBM-Nalaiya Thiran Scheme.
-The goal of this project is to help the doctors in operation theatres or a sterile environment where 
-physical contact between persons should be avoided in order to be sterilized and also prevent from any 
-infections.
-In this project, We train and test a CNN based model to recognize the hand gesture. The training data 
-include images that captures the hand gestures showing 0,1,2,3,4 and 5. The image is resized without 
-much loss of information and used for training a CNN based model. We use Python Flask to provide an 
-interactive platform for out model.
-Members who spent their time for this Project: AAKASH.B - TM, HARIDARSHAN.S - TM, KEERTHI 
-RAGHAVAN - TL, PRAKASH RAJ - TM,SARANSIVA-TM
+A gesture based Device for Sterile Perusing of Radiology Pictures This repo is our venture which was finished under the direction of IBM-Nalaiya Thiran Plan. The objective of this task is to help the specialists in activity theaters or a sterile climate where actual contact between people ought to be kept away from to be cleaned and furthermore keep from any diseases. In this undertaking, We train and test a CNN based model to perceive the hand motion. The preparation information incorporate pictures that catches the hand signals showing 0,1,2,3,4 and 5. The picture is resized absent a lot of loss of data and utilized for preparing a CNN based model. We use Python Carafe to give an intelligent stage to out demonstrate. Individuals who invested their energy for this Venture: AAKASH.B - TM, HARIDARSHAN.S - TM, KEERTHI RAGHAVAN - TL, PRAKASH RAJ - TM,SARANSIVA-TM
